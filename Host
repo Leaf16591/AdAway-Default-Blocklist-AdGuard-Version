@@ -1,8 +1,11 @@
-! Title: ADAWAY HOST + MVPS HOST
-! Sources: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-! Sources: https://winhelp2002.mvps.org/hosts.txt
-! Description: Block mobile ads and analytics, ads, banners, 3rd party Cookies, 3rd party page counters, web bugs, and even most hijackers and possibly unwanted programs.
-! TimeUpdated: 28/12/2021
+! Title: ADAWAY HOST + MVPS HOST LIST
+! Description: Block mobile and web ads, analytics, banners, 3rd party Cookies, 
+! 3rd party page counters, web bugs, and even most hijackers and possibly unwanted programs.
+! TimeUpdated: 29/12/2021
+! Homepage: https://github.com/Leaf16591/AdAway-host-sources-for-AdGuard-Android
+! Sources: 
+! https://adaway.org/hosts.txt
+! https://winhelp2002.mvps.org/hosts.txt
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
@@ -7574,7 +7577,6 @@
 ||zucks.net^
 ||zwaar.org^
 ||log-collector.svctr.zynga.com^
-^
 ||fr.a2dfp.net^
 ||mfr.a2dfp.net^
 ||ad.a8.net^
