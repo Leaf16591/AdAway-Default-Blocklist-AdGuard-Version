@@ -1,7 +1,7 @@
 ! Title: ADAWAY HOST + MVPS HOST LIST
 ! Description: Block mobile and web ads, analytics, banners, 3rd party Cookies, 
 ! 3rd party page counters, web bugs, and even most hijackers and possibly unwanted programs.
-! TimeUpdated: 01/01/2022
+! TimeUpdated: 04/01/2022
 ! Homepage: https://github.com/Leaf16591/AdAway-host-sources-for-AdGuard-Android
 ! Sources: 
 ! https://adaway.org/hosts.txt
@@ -3235,7 +3235,6 @@
 ||havasedge.com^
 ||event.havasedge.com^
 ||hbi-ingest.net^
-||www.healthgrades.com^
 ||cdn.heapanalytics.com^
 ||adv.herocraft.com^
 ||gamestats.herocraft.com^
@@ -5631,7 +5630,6 @@
 ||media.revcontent.com^
 ||publishers.revcontent.com^
 ||trends.revcontent.com^
-||api.revenuecat.com^
 ||ads.revjet.com^
 ||cdn.revjet.com^
 ||pix.revjet.com^
@@ -7577,7 +7575,6 @@
 ||zucks.net^
 ||zwaar.org^
 ||log-collector.svctr.zynga.com^
-^
 ||fr.a2dfp.net^
 ||mfr.a2dfp.net^
 ||ad.a8.net^
