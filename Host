@@ -1,7 +1,7 @@
 ! Title: ADAWAY HOST + MVPS HOST LIST
 ! Description: Block mobile and web ads, analytics, banners, 3rd party Cookies, 
 ! 3rd party page counters, web bugs, and even most hijackers and possibly unwanted programs.
-! TimeUpdated: 04/01/2022
+! TimeUpdated: 16/01/2022
 ! Homepage: https://github.com/Leaf16591/AdAway-host-sources-for-AdGuard-Android
 ! Sources: 
 ! https://adaway.org/hosts.txt
@@ -2118,7 +2118,6 @@
 ||monetize-api.coronalabs.com^
 ||stats.coronalabs.com^
 ||count.ly^
-||static.cloud.coveo.com^
 ||smetrics.cox.com^
 ||cpmstar.com^
 ||cdne.cpmstar.com^
@@ -2487,8 +2486,6 @@
 ||tag.divvit.com^
 ||bob.dmpxs.com^
 ||ciq.dmpxs.com^
-||postsign.docusign.com^
-||telemetry.docusign.net^
 ||ufz.doesxyz.com^
 ||ads.dofunapps.com^
 ||sdk.dofunapps.com^
@@ -3337,8 +3334,6 @@
 ||stable.icecyber.org^
 ||iclickyou.com^
 ||ads.icloseli.com^
-||api.icloseli.com^
-||relaycn.icloseli.com^
 ||metrics.icloud.com^
 ||id1.cn^
 ||id5-sync.com^
@@ -3352,7 +3347,6 @@
 ||game.idoing3d.com^
 ||server.idreams.pl^
 ||mpsnare.iesnare.com^
-||d.ifengimg.com^
 ||adlog.ifood.tv^
 ||log.ifood.tv^
 ||entree.igetget.com^
