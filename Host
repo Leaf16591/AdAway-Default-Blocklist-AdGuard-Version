@@ -1,7 +1,7 @@
-!Title: AdAway default blocklist
-!Description: Blocking mobile ad providers and some analytics providers.
-!TimeUpdated: 08/05/2022
-!Fetch the latest version of this file: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+! Title: AdAway default blocklist
+! Description: Blocking mobile ad providers and some analytics providers.
+! TimeUpdated: 08/05/2022
+! Fetch the latest version of this file: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
