@@ -2,4 +2,4 @@
 Conversion syntax for Adguard Android of AdAway default blocklist.
 
 For use it add this link to your Adguard Android in Personalized Filter List Section.
-https://github.com/Leaf16591/AdAway-host-sources-for-AdGuard-Android/raw/main/Host
+https://raw.githubusercontent.com/Leaf16591/AdAway-default-blocklist-for-AdGuard-Android./main/Host
