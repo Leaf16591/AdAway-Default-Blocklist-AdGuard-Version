@@ -1,4 +1,4 @@
-# AdAway default blocklist for AdGuard Android.
+# AdAway default blocklist for AdGuard Android
 Conversion syntax for Adguard Android of AdAway default blocklist.
 
 For use it add this link to your Adguard Android in Personalized Filter List Section.
