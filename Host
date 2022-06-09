@@ -1,7 +1,7 @@
 ! Title: AdAway Default Blocklist (AdGuard Version)
-! Description: AdAway Main Host For AdGuard.
+! Description: AdAway Default Blocklist For AdGuard.
 ! TimeUpdated: 09/06/2022
-! Project Home Page: https://github.com/Leaf16591/AdAway-default-blocklist-for-AdGuard-Android
+! Project Home Page: https://github.com/Leaf16591/AdAway-Default-Blocklist-AdGuard-Version
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
