@@ -1,7 +1,7 @@
-! Title: AdAway default blocklist
-! Description: Blocking mobile ad providers and some analytics providers.
-! TimeUpdated: 29/05/2022
-! Fetch the latest version of this file: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+! Title: AdAway Default Blocklist (AdGuard Version)
+! Description: AdAway Main Host For AdGuard.
+! TimeUpdated: 09/06/2022
+! Project Home Page: https://github.com/Leaf16591/AdAway-default-blocklist-for-AdGuard-Android
 ||analytics.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
