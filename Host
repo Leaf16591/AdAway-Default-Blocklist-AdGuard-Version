@@ -1,6 +1,6 @@
 ! Title: AdAway Default Blocklist (AdGuard Version)
 ! Description: AdAway Default Blocklist For AdGuard.
-! TimeUpdated: 09/06/2022
+! TimeUpdated: 05/07/2022
 ! Project Home Page: https://github.com/Leaf16591/AdAway-Default-Blocklist-AdGuard-Version
 ||analytics.163.com^
 ||crash.163.com^
@@ -3052,14 +3052,6 @@
 ||i-mobile.co.jp^
 ||i2ad.jp^
 ||i2i.jp^
-||api.iadvize.com^
-||cdlc.iadvize.com^
-||cobrowsing-ha.iadvize.com^
-||fstatic.iadvize.com^
-||halc.iadvize.com^
-||lc.iadvize.com^
-||static.iadvize.com^
-||xmpp-ha-alb.iadvize.com^
 ||sdk.iappgame.com^
 ||data.iappmobi.com^
 ||ci.iasds01.com^
